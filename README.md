@@ -59,6 +59,7 @@ Let’s crack coding interviews together! 💪
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
