@@ -52,6 +52,7 @@ Let’s crack coding interviews together! 💪
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ Let’s crack coding interviews together! 💪
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
