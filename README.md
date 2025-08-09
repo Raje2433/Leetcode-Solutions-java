@@ -52,6 +52,7 @@ Let’s crack coding interviews together! 💪
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@ Let’s crack coding interviews together! 💪
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -68,6 +70,7 @@ Let’s crack coding interviews together! 💪
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 ## Binary Search
