@@ -66,6 +66,7 @@ Let’s crack coding interviews together! 💪
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,8 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
