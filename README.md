@@ -14,11 +14,10 @@ Here, I’m consistently solving coding problems to master **Data Structures and
 
 ## 🧠 How to Read Each File
 
-Each `.java` file contains:
+Each folder contains:
 
-- ✅ Short problem summary
-- 🔗 LeetCode link
-- 💡 Java solution with comments
+- 🔗 LeetCode problem link
+- 💡 Java solution 
 
 ---
 
@@ -33,7 +32,7 @@ Each `.java` file contains:
 ## ⚠️ Disclaimer
 
 I do **not** post full LeetCode problem statements due to copyright.  
-Only a short summary + solution is shared.
+Only problem link + solution is shared.
 
 ---
 
