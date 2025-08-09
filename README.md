@@ -51,9 +51,18 @@ Let’s crack coding interviews together! 💪
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
