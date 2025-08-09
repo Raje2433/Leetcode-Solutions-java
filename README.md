@@ -48,4 +48,12 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
