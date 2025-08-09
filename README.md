@@ -41,3 +41,11 @@ Only a short summary + solution is shared.
 
 If you like this repo, consider giving it a ⭐  
 Let’s crack coding interviews together! 💪
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
