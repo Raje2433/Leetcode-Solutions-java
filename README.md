@@ -62,6 +62,7 @@ Let’s crack coding interviews together! 💪
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1651-shuffle-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1651-shuffle-string) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -101,6 +102,7 @@ Let’s crack coding interviews together! 💪
 | ------- |
 | [0344-reverse-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0344-reverse-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1651-shuffle-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1894-merge-strings-alternately) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
