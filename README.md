@@ -63,6 +63,7 @@ Let’s crack coding interviews together! 💪
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1651-shuffle-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1651-shuffle-string) |
+| [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -108,5 +109,6 @@ Let’s crack coding interviews together! 💪
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
