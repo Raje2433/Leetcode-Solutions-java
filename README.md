@@ -47,6 +47,7 @@ Let’s crack coding interviews together! 💪
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 ## Array
