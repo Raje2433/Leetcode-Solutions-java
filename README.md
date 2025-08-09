@@ -62,6 +62,7 @@ Let’s crack coding interviews together! 💪
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1651-shuffle-string) |
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
@@ -111,4 +112,8 @@ Let’s crack coding interviews together! 💪
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
