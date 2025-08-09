@@ -49,12 +49,14 @@ Let’s crack coding interviews together! 💪
 | ------- |
 | [0007-reverse-integer](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
