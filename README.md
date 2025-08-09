@@ -79,12 +79,14 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -103,6 +105,7 @@ Let’s crack coding interviews together! 💪
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0344-reverse-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1205-defanging-an-ip-address) |
