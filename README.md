@@ -51,6 +51,7 @@ Let’s crack coding interviews together! 💪
 | [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Let’s crack coding interviews together! 💪
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
@@ -83,6 +85,7 @@ Let’s crack coding interviews together! 💪
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
+| [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -125,4 +128,8 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
