@@ -55,6 +55,7 @@ Let’s crack coding interviews together! 💪
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ Let’s crack coding interviews together! 💪
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
