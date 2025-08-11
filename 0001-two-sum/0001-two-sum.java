@@ -2,12 +2,21 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         //using nested loop to find the target
         for(int i=0;i<nums.length;i++){
-            for(int j=i+1;j<nums.length;j++){
-                if(nums[i]+nums[j]==target){
-                    return new int[]{i,j};//return indices of the sum pairs
-                }
+            int e=target-nums[i];
+            int index=search(nums,i+1,nums.length,e);
+            if(index!=-1){
+                return new int[]{i,index};
             }
         }
-        return new int[]{-1,-1}; // if no such pair exist
+        return new int[]{-1,-1};
+        
+    }
+    public int search(int[] a,int start,int end,int element){
+        for(int i=start;i<end;i++){
+            if(a[i]==element){
+                return i;
+            }
+        }
+        return -1;
     }
 }
