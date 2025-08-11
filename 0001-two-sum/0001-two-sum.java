@@ -1,22 +1,14 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        //using nested loop to find the target
+        Map<Integer,Integer> map=new HashMap<>();
         for(int i=0;i<nums.length;i++){
-            int e=target-nums[i];
-            int index=search(nums,i+1,nums.length,e);
-            if(index!=-1){
-                return new int[]{i,index};
+            int need=target-nums[i];
+            if(map.containsKey(need)){
+                return new int[]{i,map.get(need)};
             }
+            map.put(nums[i],i);
         }
-        return new int[]{-1,-1};
-        
+        return null;
     }
-    public int search(int[] a,int start,int end,int element){
-        for(int i=start;i<end;i++){
-            if(a[i]==element){
-                return i;
-            }
-        }
-        return -1;
-    }
+    
 }
