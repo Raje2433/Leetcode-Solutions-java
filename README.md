@@ -49,6 +49,7 @@ Let’s crack coding interviews together! 💪
 | [0007-reverse-integer](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
@@ -60,6 +61,7 @@ Let’s crack coding interviews together! 💪
 | [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
@@ -76,6 +78,7 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0557-reverse-words-in-a-string-iii) |
