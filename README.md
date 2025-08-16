@@ -53,6 +53,7 @@ Let’s crack coding interviews together! 💪
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Array
 |  |
 | ------- |
