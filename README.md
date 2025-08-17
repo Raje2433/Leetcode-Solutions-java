@@ -52,6 +52,7 @@ Let’s crack coding interviews together! 💪
 | [0189-rotate-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1610-xor-operation-in-an-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2752-sum-multiples) |
@@ -113,6 +114,7 @@ Let’s crack coding interviews together! 💪
 | ------- |
 | [0136-single-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1610-xor-operation-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
