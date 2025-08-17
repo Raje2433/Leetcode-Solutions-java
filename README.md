@@ -55,6 +55,7 @@ Let’s crack coding interviews together! 💪
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2752-sum-multiples) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
