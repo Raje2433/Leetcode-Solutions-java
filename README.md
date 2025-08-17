@@ -76,6 +76,7 @@ Let’s crack coding interviews together! 💪
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
