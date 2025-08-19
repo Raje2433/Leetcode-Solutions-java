@@ -56,6 +56,7 @@ Let’s crack coding interviews together! 💪
 | [1610-xor-operation-in-an-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
@@ -80,6 +81,7 @@ Let’s crack coding interviews together! 💪
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
