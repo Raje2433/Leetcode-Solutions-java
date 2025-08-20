@@ -50,6 +50,7 @@ Let’s crack coding interviews together! 💪
 | [0009-palindrome-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -140,6 +141,7 @@ Let’s crack coding interviews together! 💪
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -154,4 +156,8 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1791-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
