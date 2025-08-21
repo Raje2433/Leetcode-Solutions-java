@@ -73,6 +73,7 @@ Let’s crack coding interviews together! 💪
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
@@ -148,6 +149,7 @@ Let’s crack coding interviews together! 💪
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1833-find-the-highest-altitude) |
 ## Counting
