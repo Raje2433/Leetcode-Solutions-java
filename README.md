@@ -79,6 +79,7 @@ Let’s crack coding interviews together! 💪
 | [1651-shuffle-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -148,6 +149,7 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1833-find-the-highest-altitude) |
 ## Counting
 |  |
 | ------- |
