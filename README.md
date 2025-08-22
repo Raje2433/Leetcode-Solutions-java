@@ -83,6 +83,7 @@ Let’s crack coding interviews together! 💪
 | [1833-find-the-highest-altitude](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2102-find-the-middle-index-in-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -152,6 +153,7 @@ Let’s crack coding interviews together! 💪
 | [0724-find-pivot-index](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1833-find-the-highest-altitude) |
+| [2102-find-the-middle-index-in-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/2102-find-the-middle-index-in-array) |
 ## Counting
 |  |
 | ------- |
