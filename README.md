@@ -74,6 +74,7 @@ Let’s crack coding interviews together! 💪
 | [0283-move-zeroes](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0724-find-pivot-index) |
+| [1137-height-checker](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
@@ -112,6 +113,7 @@ Let’s crack coding interviews together! 💪
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
+| [1137-height-checker](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1137-height-checker) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,4 +168,8 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
