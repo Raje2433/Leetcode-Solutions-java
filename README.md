@@ -105,6 +105,7 @@ Let’s crack coding interviews together! 💪
 | [0217-contains-duplicate](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
@@ -134,6 +135,7 @@ Let’s crack coding interviews together! 💪
 | ------- |
 | [0242-valid-anagram](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -159,6 +161,7 @@ Let’s crack coding interviews together! 💪
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
@@ -172,4 +175,8 @@ Let’s crack coding interviews together! 💪
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/1137-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Raje2433/Leetcode-Solutions-java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
